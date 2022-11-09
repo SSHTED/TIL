@@ -129,11 +129,12 @@ As Grace Hopper said:
 
 ## 6. Images 이미지
 * 사진 깃 허브 안으로 드래그
-* 이미지의 사이즈를 변경하기 위해서는 <img width="OOOpx" height="OOOpx"> 링크 </img>와 같이 표현합니다.
-* 
+* 이미지의 사이즈를 변경하기 위해서는   
+ < img src= "https://user-images.githubusercontent.com/75108382/184267939-040f6114-35c4-4d68-9e23-7ccecd7a1dd2.jpg" width="200" height="400"/>   와 같이 표현합니다.
+
 
 ![tomato](https://user-images.githubusercontent.com/75108382/184267939-040f6114-35c4-4d68-9e23-7ccecd7a1dd2.jpg)
-
+<img src= "https://user-images.githubusercontent.com/75108382/184267939-040f6114-35c4-4d68-9e23-7ccecd7a1dd2.jpg" width="200" height="400"/>
 
 
 ## 7. Links 링크
