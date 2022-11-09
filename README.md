@@ -37,5 +37,5 @@
 
 # 10. 코테
 
-# ㅇ. ETC
-## [마크다운](https://github.com/SSHTED/TIL/blob/main/ETC/MarkDown.md)
+# .  ETC
+[마크다운](https://github.com/SSHTED/TIL/blob/main/ETC/MarkDown.md)
