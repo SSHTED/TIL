@@ -26,7 +26,7 @@
 # 4. 네트워크
 
 # 5. 파이썬
-
+[문법](https://github.com/SSHTED/TIL/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%EB%AC%B8%EB%B2%95.md)
 # 6. 자바
 
 # 7. 스프링

@@ -1,12 +1,11 @@
-hello = "ABCDEFG"
 
-print(hello[1:3])
+num = input("숫자 입력 : ")
+num = int(num)
 
-print(hello)
+if (num % 2 == 0) :
+    print("짝수")
 
-print(len(hello))
+else :
+    print("홀수")
 
-print("\\\\\\\\")
-print("-" * 8)
-
-print("안녕하세요"[1])
+raise NotImplementedError
