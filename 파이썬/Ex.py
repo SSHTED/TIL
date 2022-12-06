@@ -1,10 +1,6 @@
-power = lambda x : x * x
-under_3 = lambda x : x<3
+import collections
 
-list_input_a = [1,2,3,4,5]
+Person = collections.namedtuple('Person','name age gender')
 
-output_a = map(power, list_input_a)
-print(list(output_a))
-
-output_b = filter(under_3, list_input_a)
-print(list(output_b))
+p = Person('아스틴', 30 , '남자')
+print(p.gender)
