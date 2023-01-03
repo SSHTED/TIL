@@ -21,6 +21,7 @@
 
 # 2. 알고리즘
 [알골리즘 개념](https://github.com/SSHTED/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90.md)
+[나동빈 - 이취코]()
 # 3. 운영체제
 
 # 4. 네트워크
