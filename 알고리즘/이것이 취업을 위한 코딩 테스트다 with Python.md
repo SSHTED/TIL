@@ -71,8 +71,31 @@ sys.stdin.readline().rstrip()
 ㅇ 출력 줄바꿈 방지 => end속성 이용
 print(123, end=" ")
 
+ㅇ 실전에서 유용한 표준 라이브러리
+<img width="947" alt="default 713" src="https://user-images.githubusercontent.com/117712307/210587462-cac9b8cd-6165-461f-90de-ab52113675d3.png">
 
+* 자주 사용 내장함수
+eval() = 수식으로 표현된 식을 계산 한 결과를 실제 수로 반환해줌 ((3+5)*7 을 56으로 반환해줌)
+sorted() = 정렬 (람다와 함꼐 공부)
 
+* <img width="1112" alt="default" src="https://user-images.githubusercontent.com/117712307/210588203-6da2f31a-3675-4a7f-95ff-c9cb1d102915.png">
+
+* 순열
+<img width="1033" alt="default" src="https://user-images.githubusercontent.com/117712307/210588453-f1da8656-2e1a-41b9-ac26-08cc47217406.png">
+
+* 조합
+<img width="1026" alt="default" src="https://user-images.githubusercontent.com/117712307/210588598-79e86e69-f860-44a9-b46b-c81fde249a55.png">
+
+* 중복순열 중복 조합
+<img width="1095" alt="default 2" src="https://user-images.githubusercontent.com/117712307/210588844-c7ce9c86-a2ba-4900-b5fd-08c9801cd094.png">
+
+* counter
+<img width="1056" alt="default" src="https://user-images.githubusercontent.com/117712307/210588938-efe42506-ff27-4e99-bca8-3f0de466c0cf.png">
+
+* 최대 공약수, 최소 공배수
+<img width="890" alt="default" src="https://user-images.githubusercontent.com/117712307/210589238-693d5f9e-5caf-4030-850e-466b4b97c749.png">
+
+* 
 
 
 1) 그리디
